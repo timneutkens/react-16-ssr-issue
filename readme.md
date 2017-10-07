@@ -1,5 +1,5 @@
 Error:
-> Warning: Expected server HTML to contain a matching <linearGradient> in <defs>.
+> Warning: Expected server HTML to contain a matching `<linearGradient>` in <defs>.
 
 To run the example:
 
